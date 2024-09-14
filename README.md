@@ -22,7 +22,7 @@ Whether it’s building dynamic, responsive websites, managing data efficiently,
 ## 🎓 Educational Background
 I hold a degree in **Computer and Robotics Education (Education/Computer Science)** from the **University of Nigeria, Nsukka**, where I developed a functional, interactive web-based platform for hosting course content as my final year project. Beyond my formal education, I have completed several specialized courses, including **AI**, **Virtual Assistance**, and **Software Development** with platforms like ALX, LinkedIn, and others.
 
-**[Download My CV](https://drive.google.com/file/d/11AZynns80bdyoGcmSPGetUxkPRCMfSx0/view?usp=sharing)**
+**[Download My CV](https://drive.google.com/file/d/1-2FAH7PfYjK4RWoJdQKisBIx2NsFFjwQ/view?usp=sharing)**
 
 Check out my professional portfolio website: **[Ojobor Jude Ikechukwu Portfolio](https://dhcomputer.com.ng/Ojobor-Jude-Ikechukwu-Port-Folio/)**
 
