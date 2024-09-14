@@ -37,7 +37,7 @@ Check out my professional portfolio website: **[Ojobor Jude Ikechukwu Portfolio]
 -  **Business Website for Entrepreneurs:** A business website template designed for non-technical entrepreneurs, with built-in payment gateways, product showcases, and customer support.
 
 ##  📬 Contact Me
-I’m always open to collaboration, questions, and job opportunities!  **judeojobor@gmail.com | +234-0851-599-859  [LinkedIn](https://www.linkedin.com/in/ojobor-jude-ik-292b9612b/)**
+I’m always open to collaboration, questions, and job opportunities!  **judeojobor@gmail.com | +234-8061-599-859  [LinkedIn](https://www.linkedin.com/in/ojobor-jude-ik-292b9612b/)**
 
 **Contact Form**
 
